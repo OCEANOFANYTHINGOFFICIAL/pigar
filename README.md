@@ -40,8 +40,8 @@ pip install git+https://github.com/OCEANOFANYTHINGOFFICIAL/pigar.git --upgrade
     ```
     # Generate requirements.txt for current directory.
     $ pigar
-```
-```
+    ```
+    ```
     # Generating requirements.txt for given directory in given file.
     $ pigar -p ../dev-requirements.txt -P ../
     ```
